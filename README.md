@@ -1,3 +1,3 @@
-# Calculator
+# Win-Calculator
 
-a standart calculator created with **wpf 
+a standart calculator created with *wpf* 
