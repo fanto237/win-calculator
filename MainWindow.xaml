@@ -1,0 +1,48 @@
+﻿<Window
+	x:Class="MvvmDemo.MainWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:local="clr-namespace:MvvmDemo"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	Title="MainWindow"
+	Width="800"
+	Height="450"
+	mc:Ignorable="d">
+	<Window.DataContext>
+		<local:MainWindowViewModel />
+	</Window.DataContext>
+	<Grid x:Name="btn_grow">
+
+		<TextBox
+			Width="120"
+			Margin="236,152,0,0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Text="{Binding Name}"
+			TextWrapping="Wrap" />
+		<TextBox
+			Width="120"
+			Margin="236,186,0,0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Text="{Binding Age}"
+			TextWrapping="Wrap" />
+		<TextBlock
+			Width="190"
+			Height="75"
+			Margin="236,231,0,0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			RenderTransformOrigin="0.5,0.5"
+			Text="{Binding Salut}"
+			TextWrapping="Wrap" />
+		<Button
+			Width="95"
+			Margin="275,324,0,0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Content="Press to grow" Command="{Binding ClearCommand}" />
+
+	</Grid>
+</Window>
