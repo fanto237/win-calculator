@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ypsIOTsA0oDuz1orJF/bEErMLVcBLDTEwpW4wNQurzcOFkIdN3oinLlxOcm9zsfUwB9io2OL4yO5xmBWJativA==",
+  "dgSpecHash": "Uh+/CaYD8j8JCmR+VVCaSjBFsHH3mg1KzUKx8dZoKg3N21eCi+CxocBaiHW8cNXS3fAbgrBkdA7n3fZ7ib55qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\MvvmDemo\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

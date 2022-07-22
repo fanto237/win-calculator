@@ -53,7 +53,7 @@ namespace MvvmDemo {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Calculator;V1.0.0.0;component/calculatorview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Calculator;component/calculatorview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CalculatorView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

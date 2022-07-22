@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\MvvmDemo\\Calculator.csproj": {}
+    "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\MvvmDemo\\Calculator.csproj": {
+    "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\MvvmDemo\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\MvvmDemo\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Lucien Leroy Siani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\MvvmDemo\\obj\\",
+        "outputPath": "C:\\Users\\Lucien Leroy Siani\\Documents\\Workspace\\MvvmDemo\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucien Leroy Siani\\AppData\\Roaming\\NuGet\\NuGet.Config",
